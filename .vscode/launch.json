@@ -11,7 +11,7 @@
                 "--extensionDevelopmentPath=${workspaceFolder}"
             ],
             "stopOnEntry": false,
-            "smartStep": true,
+            "smartStep": false,
             "sourceMaps": true,
             "outFiles": [
                 "${workspaceFolder}/out/**/*"
